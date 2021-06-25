@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="978" height="978" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="50%" y1=".779%" x2="50%" y2="100%" id="a">
+      <stop stop-color="#0989B4" stop-opacity="0" offset="0"/>
+      <stop stop-color="#53FFEE" offset="0.9994"/>
+    </linearGradient>
+  </defs>
+  <ellipse fill="url(#a)" transform="matrix(0.707107, -0.707107, -0.707107, -0.707107, 661.911859, 1248.106047)" cx="489" cy="489" rx="880.824" ry="658.037" fill-rule="evenodd" opacity=".25" style=""/>
+</svg>

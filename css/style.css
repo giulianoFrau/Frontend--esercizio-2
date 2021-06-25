@@ -1,0 +1,79 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; }
+  @media only screen and (max-width: 105em) {
+    html {
+      font-size: 60%; } }
+  @media only screen and (max-width: 100em) {
+    html {
+      font-size: 55%; } }
+  @media only screen and (max-width: 95em) {
+    html {
+      font-size: 50%; } }
+  @media only screen and (max-width: 85em) {
+    html {
+      font-size: 45%; } }
+  @media only screen and (max-width: 76em) {
+    html {
+      font-size: 60%; } }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6; }
+
+.box {
+  height: 950px;
+  background-color: #19a2ae;
+  background-image: url(../img/bg-pattern-bottom.svg); }
+
+.img {
+  border-radius: 10px 10px 0 0; }
+
+.card {
+  border-radius: 15px;
+  border: 1px solid #19a2ae;
+  color: black; }
+
+.victor {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-top: -5rem; }
+
+.text {
+  font-size: 1.6rem;
+  font-family: "Lexend Deca", sans-serif;
+  padding-top: 2rem;
+  font-weight: 800; }
+
+.eta {
+  font-weight: 400;
+  color: gray; }
+
+.citta {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: gray;
+  padding: .8rem; }
+
+.spanGeneral {
+  display: block;
+  text-align: center;
+  font-family: "Lexend Deca", sans-serif; }
+
+.spanUp {
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: 800; }
+
+.spanOver {
+  font-size: 1rem;
+  text-transform: capitalize;
+  font-weight: 300;
+  color: gray;
+  letter-spacing: .2rem; }
+
+.padding {
+  padding: 2rem; }
